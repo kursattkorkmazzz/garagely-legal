@@ -4,15 +4,15 @@
 
 ## Türkçe
 
-- [Kullanım Şartları ve Koşulları](./legal/terms-of-service-tr.html)
-- [Gizlilik Politikası](./legal/privacy-policy-tr.html)
+- [Kullanım Şartları ve Koşulları](./terms-of-service-tr.html)
+- [Gizlilik Politikası](./privacy-policy-tr.html)
 
 ---
 
 ## English
 
-- [Terms of Service](./legal/terms-of-service-en.html)
-- [Privacy Policy](./legal/privacy-policy-en.html)
+- [Terms of Service](./terms-of-service-en.html)
+- [Privacy Policy](./privacy-policy-en.html)
 
 ---
 
