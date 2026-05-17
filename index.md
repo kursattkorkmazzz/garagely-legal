@@ -16,4 +16,4 @@
 
 ---
 
-**İletişim / Contact:** support@garagely.com
+**İletişim / Contact:** support@garagely.app

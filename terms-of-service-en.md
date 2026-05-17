@@ -12,7 +12,7 @@ This Service is provided by **Kürşat KORKMAZ** (hereinafter "Developer").
 
 - **Developer:** Kürşat KORKMAZ
 - **Address:** Ankara, Türkiye
-- **Contact:** support@garagely.com
+- **Contact:** support@garagely.app
 
 The natural or legal person using the App is hereinafter referred to as the "User".
 
@@ -98,4 +98,4 @@ These Terms are governed by the laws of the Republic of Türkiye. Any disputes s
 
 For questions regarding these Terms:
 
-**support@garagely.com**
+**support@garagely.app**

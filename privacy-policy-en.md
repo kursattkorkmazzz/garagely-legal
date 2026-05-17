@@ -10,7 +10,7 @@ This Privacy Policy explains what data the Garagely application ("App") collects
 
 - **Developer:** Kürşat KORKMAZ
 - **Address:** Ankara, Türkiye
-- **Contact:** support@garagely.com
+- **Contact:** support@garagely.app
 
 This policy has been prepared in accordance with the Republic of Türkiye's **Personal Data Protection Law (KVKK, Law No. 6698)** and, where applicable, the European Union **General Data Protection Regulation (GDPR)**.
 
@@ -53,7 +53,7 @@ Stores may share **aggregated/anonymous** subscription status, purchase history,
 
 ### 3.4 Support Requests
 
-When you contact us at **support@garagely.com**, your email address and the content of your message are retained for the duration of the support request and are not used for any purpose other than providing support.
+When you contact us at **support@garagely.app**, your email address and the content of your message are retained for the duration of the support request and are not used for any purpose other than providing support.
 
 ## 4. Device Permissions
 
@@ -102,7 +102,7 @@ Because all your data is on your device, you can exercise the following rights *
 | **Data portability**                | Use the Backup feature to export your data as a ZIP file                       |
 | **Objection to processing**         | The Developer does not process your data, so no separate objection is required |
 
-For additional questions, you can contact: **support@garagely.com**
+For additional questions, you can contact: **support@garagely.app**
 
 Right to lodge a complaint with a supervisory authority: **Personal Data Protection Board (KVKK)** — kvkk.gov.tr
 
@@ -125,4 +125,4 @@ If this policy is updated, you will be notified from the related App Store. The 
 
 For questions about this policy or our data practices:
 
-**support@garagely.com**
+**support@garagely.app**
