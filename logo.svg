@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><defs>
+<linearGradient id="rose" x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#F43F5E"/><stop offset="1" stop-color="#BE123C"/></linearGradient>
+<linearGradient id="roseGlyph" x1="232" y1="236" x2="792" y2="786" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#FB7185"/><stop offset="1" stop-color="#E11D48"/></linearGradient>
+</defs><rect x="40" y="40" width="944" height="944" rx="210" fill="url(#rose)"/><g transform="translate(512 512) scale(0.86) translate(-512 -512)"><path d="M232 420 L512 236 L792 420" fill="none" stroke="#FFFFFF" stroke-width="72" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="322" y="498" width="380" height="64" rx="32" fill="#FFFFFF"/>
+<rect x="322" y="610" width="380" height="64" rx="32" fill="#FFFFFF"/>
+<rect x="322" y="722" width="220" height="64" rx="32" fill="#FFFFFF"/>
+<circle cx="642" cy="754" r="36" fill="#FFD1DA"/></g></svg>

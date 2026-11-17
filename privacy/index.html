@@ -5,7 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Garagely · Gizlilik Politikası / Privacy Policy</title>
   <meta name="description" content="Garagely gizlilik politikası: hesap yok, sunucu yok, verilerin yalnızca telefonunda. Privacy policy: no account, no server, your data stays on your phone.">
-  <link rel="icon" href="../favicon.png">
+  <link rel="icon" href="../logo.svg" type="image/svg+xml">
+  <link rel="icon" href="../favicon.png" sizes="32x32">
+  <link rel="apple-touch-icon" href="../apple-touch-icon.png">
   <style>
     :root {
       --bg: #F7F4F5; --card: #FFFFFF; --fg: #1C1519; --muted: #6B5F66; --border: #E7DFE3;
@@ -23,7 +25,8 @@
     main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
     header.top { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 24px; }
     .brand { display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 18px; }
-    .brand span.dot { width: 28px; height: 28px; border-radius: 8px; background: var(--brand); display: inline-block; }
+    .brand { color: var(--fg); text-decoration: none; }
+    .brand img { display: block; width: 32px; height: 32px; }
     nav.lang a { color: var(--muted); text-decoration: none; padding: 6px 10px; border: 1px solid var(--border); border-radius: 999px; font-size: 14px; }
     nav.lang a:hover { color: var(--fg); }
     article { background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 28px 22px; margin-bottom: 28px; }
@@ -51,7 +54,7 @@
 <body>
 <main>
   <header class="top">
-    <div class="brand"><span class="dot" aria-hidden="true"></span>Garagely</div>
+    <a class="brand" href="../"><img src="../logo.svg" width="32" height="32" alt="" aria-hidden="true">Garagely</a>
     <nav class="lang" aria-label="Dil / Language"><a href="#tr">Türkçe</a> <a href="#en">English</a></nav>
   </header>
 
